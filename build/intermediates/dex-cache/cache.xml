@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Workout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f04dd3880fb80f9c755ffff5d76f484f0aa17a9">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4538fb0cb5b8bbfd07deb10415c298516915193e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\fe4a0772d25f9515a2a557b4856e2e2b52d9f527\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d81338c32a4bbf8b59e4febb51d58aab10909a6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_173401cf28ab41a17ff97c9e124ae9eab4150b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\5122953e4094633512091a6c2f329bf03ae048c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bba0c660119a00cb77ee6adbe7feb3609340a9e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\552a966b9678f8c75de69947984383aa180475bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_976972072c6bef1314fbd2d3c244f2c0c7ec7a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\216c209550685647529002934b167d2c8ca92bd8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_249d78ff6bd9d7429e13092a39a22fba99095509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\8bf05b307fb9af9c074cfac5e60ea0a84ec93578\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55a6e5588c8e9d9812aa070dff5e2cd03cb40c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\1689ae06b0dd6e5237846a85db0ecfd6be2b6fb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e451a3bae264452a59bb17e98f323ff4a7b8596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\4e3d927597af9d38a471f0c6497b980ab392bd78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ce98eabf6a181dd6e5fab909a9717e18c43176d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\96b4ac18d91e676c411d1efd087c8527af0c6a80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec2fdaae21e99ac6c0c86d8191c4489525c37f4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Workout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0308eae78fdf6ac2c12396e8d14b64077d66d670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\403370a8ff19899264872d8898de0065eef476b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9be4a844d8439f00edb2b4082f70f5f8c6329e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_d277b57a9d3c7737f6a1168037530d6125aaf83e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\cd8f68ac5ca408124e7fd2df0fb671e8ed3a5f3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\DELL\Workout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_903bc5aaafc6ae203bcb325b6dc849879207aaa6\classes.dex" />
+    </item>
+
+</items>

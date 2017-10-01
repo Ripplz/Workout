@@ -1,0 +1,7 @@
+#Sun Oct 01 02:01:15 WAT 2017
+base.0=C\:\\Users\\DELL\\Workout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4538fb0cb5b8bbfd07deb10415c298516915193e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\DELL\\Workout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0308eae78fdf6ac2c12396e8d14b64077d66d670\\classes.dex
+base.1=C\:\\Users\\DELL\\Workout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0308eae78fdf6ac2c12396e8d14b64077d66d670
+file.0=C\:\\Users\\DELL\\Workout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4538fb0cb5b8bbfd07deb10415c298516915193e\\classes.dex
